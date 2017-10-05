@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paddle
+  - Wall
+  - BLock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ball
+    uniqueID: 3518872707
+    locked: 0
+  - name: Wall
+    uniqueID: 1517933975
+    locked: 0
+  - name: Paddle
+    uniqueID: 3797635681
+    locked: 0
+  - name: Block
+    uniqueID: 2501501393
+    locked: 0
+  - name: New Layer
+    uniqueID: 1866496741
+    locked: 0
